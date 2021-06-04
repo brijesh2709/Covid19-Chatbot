@@ -9,7 +9,7 @@ regarding the Corona Virus data to get the live status. It is a user-friendly pl
 
 
 # Implementation Example
-![](images/Intro.jpg)
-![](images/TotalInfo.jpg)
-![](images/CountryInfo.jpg)
-![](images/greet.jpg)
+![](images/Intro.JPG)
+![](images/TotalInfo.JPG)
+![](images/CountryInfo.JPG)
+![](images/greet.JPG)
